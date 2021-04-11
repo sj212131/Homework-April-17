@@ -13,14 +13,14 @@ This project uses VS Code, GitBash, Heroku Please check you have correctly insta
 
 Please ensure your GitLab, Github and Heroku account created with SSH key. 
 
-PLease ensure running "npm i" to install all dependencies.
+Please ensure running "npm i" to install all dependencies.
 
 --------------------------------------------------------------------------------------------------
 Usage （purpose）
 
 Please enter "node server" at your terminal. Please ensure installed all dependencies.
 
-Or visit Deployed application at heroku, URL apporved below.
+Or visit Deployed application at heroku, URL approved below.
 
 --------------------------------------------------------------------------------------------------
 
