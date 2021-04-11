@@ -20,6 +20,8 @@ Usage （purpose）
 
 Please enter "node server" at your terminal. Please ensure installed all dependencies.
 
+Or visit Deployed application at heroku, URL apporved below.
+
 --------------------------------------------------------------------------------------------------
 
 Contributing 
